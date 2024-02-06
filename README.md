@@ -1,7 +1,9 @@
 # Stock-BuyCodeChallenge
 Stock&amp;BuyCodeChallenge
 
-This working solution is tested with the tree hierarchy up to 3 levels.
+This working solution is tested with the tree hierarchy with multiple nested levels.
+
+Sample data used to test it is a tree structure up to nested level 3 but please feel free to add more nesting to test the accuracy of the code.
 
 This code calculates the number of bundles  that can be created using the sub-bundles. 
 
